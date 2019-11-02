@@ -1,0 +1,11 @@
+#ignore node modules
+node_modules/
+
+#ignore request folder
+request/
+
+#ignore config.json
+config.json
+
+#ignore secret
+secret.txt
